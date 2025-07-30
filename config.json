@@ -85,9 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }, 
-    "18": {
+    "bwzy": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "18"      
+      "name": "百万资源"
     }
   }
 }
