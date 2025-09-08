@@ -8,17 +8,17 @@
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
+      "name": "如意资源",
 	  "detail": "http://cj.rycjapi.com"
     },
     "hnzy": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "name": "红牛资源"
+      "name": "红牛资源",
 	  "detail": "https://hongniuziyuan.net"
     },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
+      "name": "天涯资源",
     },
     "ffzy": {
       "api": "http://api.ffzyapi.com/api.php/provide/vod",
@@ -27,11 +27,11 @@
     },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台资源"
+      "name": "茅台资源",
     },
     "wolong": {
       "api": "https://collect.wolongzy.cc/api.php/provide/vod",
-      "name": "卧龙资源"
+      "name": "卧龙资源",
 	  "detail": "https://wolongzyw.com"
     },
     "jisu": {
@@ -41,64 +41,64 @@
     },
     "dbzy": {
       "api": "https://dbzy.tv/api.php/provide/vod",
-      "name": "豆瓣资源"
+      "name": "豆瓣资源",
     },
 	"dbzy1": {
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "name": "豆瓣资源"
+      "name": "豆瓣资源",
 	  "detail": "https://doubanziyuan.net"
     },
     "mozhua": {
       "api": "https://mozhuazy.com/api.php/provide/vod/?ac=list",
-      "name": "魔爪资源"
+      "name": "魔爪资源",
     },
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
+      "name": "魔都资源",
     },
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
+      "name": "最大资源",
     },
     "wujin": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "name": "无尽资源"
+      "name": "无尽资源",
     },
     "wwzy": {
       "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
-      "name": "旺旺短剧"
+      "name": "旺旺短剧",
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
+      "name": "iKun资源",
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+      "name": "量子资源站",
     },
     "xiaomaomi": {
       "api": "http://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
+      "name": "小猫咪资源",
     },
     "guangsuzy": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "name": "光速资源"
+      "name": "光速资源",
     },	
     "bwzy": {
     "api": "https://api.bwzyz.com/api.php/provide/vod",
-    "name": "18"
+    "name": "18",
     },
 	"naixxzy": {
     "api": "https://naixxzy.com/api.php/provide/vod",
-    "name": "奶香香资源"
+    "name": "奶香香资源",
     },
 	"yutuzy": {
     "api": "https://apiyutu.com/api.php/provide/vod",
-    "name": "玉兔资源"
+    "name": "玉兔资源",
     },
 	"xbazy": {
     "api": "https://xingba222.com/api.php/provide/vod",
-    "name": "杏吧资源"
+    "name": "杏吧资源",
     },
     "115zy": {
     "name": "AV-155资源",
