@@ -3,7 +3,7 @@
   "api_site": {
     "api_1": {
       "name": "电影天堂",
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
       "detail": "https://caiji.dyttzyapi.com"
     },
     "api_2": {
@@ -88,8 +88,8 @@
     },
     "api_18": {
       "name": "小猫咪",
-      "api": "http://zy.xmm.hk/api.php/provide/vod",
-      "detail": "http://zy.xmm.hk"
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "detail": "https://zy.xmm.hk"
     },
     "api_19": {
       "name": "光速",
@@ -98,7 +98,8 @@
     },
     "api_20": {
       "name": "索尼-闪电",
-      "api": "https://xsd.sdzyapi.com/api.php/provide/vod"
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+	  "detail": "https://xsd.sdzyapi.com"
 	},  
     "api_21": {
       "name": "A-奶香香",
@@ -152,7 +153,8 @@
     },
     "api_31": {
       "name": "U酷",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod"
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+	  "detail": "https://api.ukuapi88.com"
     },
     "api_32": {
       "name": "鸭鸭",
