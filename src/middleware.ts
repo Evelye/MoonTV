@@ -49,7 +49,7 @@ export async function middleware(request: NextRequest) {
       process.env.PASSWORD || ''
     );
 
-    // 签名验证通过即可
+    // 签名验证通过即可 
     if (isValidSignature) {
       return NextResponse.next();
     }
