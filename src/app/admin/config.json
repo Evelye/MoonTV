@@ -202,11 +202,6 @@
       "detail": "https://api.xiaojizy.live"
 	},
     "api_42": {
-      "name": "A-小鸡资源",
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "detail": "https://api.xiaojizy.live"
-	},
-    "api_43": {
       "name": "索尼-闪电资",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod"  
 	}
